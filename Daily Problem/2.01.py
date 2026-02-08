@@ -1,4 +1,4 @@
-# https://leetcode.cn/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-02-08
+# https://leetcode.cn/problems/divide-an-array-into-subarrays-with-minimum-cost-i/?envType=daily-question&envId=2026-02-08
 
 from typing import List
 class Solution:
